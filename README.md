@@ -45,8 +45,5 @@
 - **Jupyter Notebook/**
 - **Power BI Desktop/**
 
-## **License**
-This project is licensed under the MIT License.
-
 ## **Acknowledgements**
 The sample datasets used in this project were provided by NYC Gov (https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
