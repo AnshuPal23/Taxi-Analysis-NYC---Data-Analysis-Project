@@ -25,20 +25,6 @@
   
 - **README.md**: The main README file providing an overview of the project and its structure.
 
-## **How to Use**
-
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/shabi340/TaxiAnalysis.git
-
-2. Navigate to the project directory:
-   ```bash
-   cd nyc_taxi_analysis
-
-3. Follow the steps outlined in the notebooks/ directory for data cleaning, analysis, and visualization.
-4. Open the Power BI file (power_bi/taxi_analysis.pbix) to explore the visualizations and dashboards.
-5. Review the analysis findings and recommendations in the report file (reports/taxi_analysis_report.txt).
-
 
 ## **Dependencies**
 - **Python 3.x/**
